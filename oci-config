@@ -1,0 +1,7 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaa4uopyc5il3prdwwh7acosifbpxodylplupiatpogkih7oprvue7q
+fingerprint=e9:11:2e:6b:c9:c6:a9:47:43:a8:ec:3b:70:6d:09:88
+key_file=/home/opc/.oci/offdep.key
+tenancy=ocid1.tenancy.oc1..aaaaaaaaplkmid2untpzjcxrmbv4nowe74yb4lr6idtckwo4wyf7jh23be4q
+region=us-phoenix-1
+
