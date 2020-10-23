@@ -15,6 +15,10 @@ steps:
 
 - script: ls -l
   displayName: 'Display content of git checkout'
+
+- script: set | grep -i TF_VARS
+  displayName: Display TF Vars Test
+
 - task: TerraformInstaller@0
   inputs:
     terraformVersion: '0.12.3'
