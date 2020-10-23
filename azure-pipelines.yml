@@ -23,6 +23,9 @@ steps:
   inputs:
     terraformVersion: '0.12.3'
 
+- script: terraform plan
+  displayName: Do terraform plan for vcn create
+
 - script: |
     echo Add other tasks to build, test, and deploy your project.
     echo See https://aka.ms/yaml
