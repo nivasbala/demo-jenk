@@ -1,6 +1,6 @@
 terraform {
   backend "http" {
-    address = "https://objectstorage.us-phoenix-1.oraclecloud.com/p/6m6IpyBseO7SDh4QvfBjmjuusEPeKKNHJf2MdJZi45cBHhz8kCZLAkcINSG7v1ds/n/orasenatdoracledigital01/b/offdepdemo/o/tfstateterraform.tfstate"
+    address = "https://objectstorage.us-phoenix-1.oraclecloud.com/p/pPK5Hzp3ucXpsiaL0wCd3vtYHbgdZbwm9c_qvEoE6iV9ZKreBsMbkRtoR2cTmqgH/n/orasenatdoracledigital01/b/offdepdemo/o/terraform.tfstate"
     
     update_method = "PUT"
   }
